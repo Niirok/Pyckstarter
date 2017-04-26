@@ -16,6 +16,8 @@ dependencies:
 - !!python/unicode
   'markupsafe=0.23=py27_2'
 - !!python/unicode
+  'numpydoc=0.6.0=py27_0'
+- !!python/unicode
   'openssl=1.0.2k=1'
 - !!python/unicode
   'pip=9.0.1=py27_1'
