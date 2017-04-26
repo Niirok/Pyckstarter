@@ -1,0 +1,35 @@
+http://stackoverflow.com/questions/963965/how-to-write-strategy-pattern-in-python-differently-than-example-in-wikipedia
+http://www.laurencegellert.com/2011/08/python-strategy-pattern/
+https://www.toptal.com/python/python-design-patterns
+
+
+--------------------Diff Module/Package-------------------------------
+http://stackoverflow.com/questions/19198166/whats-the-difference-between-a-module-and-a-library-in-python
+http://stackoverflow.com/questions/7948494/whats-the-difference-between-a-python-module-and-a-python-package
+
+
+--------------------Package-------------------------------------------
+https://www.programiz.com/python-programming/package
+http://mikegrouchy.com/blog/2012/05/be-pythonic-__init__py.html
+http://stackoverflow.com/questions/1944569/how-do-i-write-good-correct-package-init-py-files
+http://stackoverflow.com/questions/448271/what-is-init-py-for
+http://stackoverflow.com/questions/448271/what-is-init-py-for
+
+
+------------------------setup.py--------------------------------
+https://docs.python.org/2.7/distutils/setupscript.html
+http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/quickstart.html
+
+
+------------------------sphinx, install and use--------------------------------
+https://www.ibm.com/developerworks/library/os-sphinx-documentation/
+https://samnicholls.net/2016/06/15/how-to-sphinx-readthedocs/
+https://pythonhosted.org/an_example_pypi_project/sphinx.html
+http://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_numpy.html#example-numpy
+
+-------------------------------pytest, troublesooting----------------------------------
+http://stackoverflow.com/questions/20985157/py-test-no-module-named
+
+
+------------------------------__future__---------------------------------------
+https://triangle717.wordpress.com/2015/02/11/python-future-module/
